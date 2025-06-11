@@ -47,7 +47,7 @@ export default function Chat() {
         style={{
           minHeight: "120px",
           maxHeight: "90vh",
-          height: messages.length > 0 ? "750px" : "220px",
+          height: messages.length > 0 ? "750px" : "260px",
         }}
       >
         <CardHeader className="flex-shrink-0 border-b border-purple-500/30 bg-slate-800/50 rounded-t-xl">

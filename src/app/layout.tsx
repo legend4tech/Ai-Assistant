@@ -14,9 +14,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Aizktec - AI Chatbot",
+  title: "SolanaAI - AI Chatbot",
   description:
-    "Aizktec is an AI chatbot that can help developers with their questions.",
+    "SolanaAI is an AI chatbot that can help developers with their questions.",
 };
 
 export default function RootLayout({
