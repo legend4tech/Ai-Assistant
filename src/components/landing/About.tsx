@@ -11,7 +11,7 @@ export default function About() {
               <span className="text-purple-500">SolanaAI</span>
             </h2>
             <p className="text-xl text-gray-400 mb-8 leading-relaxed">
-              We're an emerging startup building the future of AI-assisted
+              We&apos;re an emerging startup building the future of AI-assisted
               development for the Solana ecosystem. Our mission is to empower
               developers with intelligent tools that accelerate innovation and
               simplify complex blockchain development.
